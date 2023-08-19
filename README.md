@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ildha</h1>
-<h3 align="center">A passionate newbie full-stack developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catfish-emperor" alt="catfish-emperor" /></a> </p>
+<h3 align="center">A passionate new full-stack developer</h3>
 
 - 🌱 I’m currently learning **MERN stack development**
 
