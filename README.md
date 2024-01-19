@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ildha</h1>
-<h3 align="center">A passionate new full-stack developer</h3>
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **MERN full-stack development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
